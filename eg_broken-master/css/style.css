@@ -29,7 +29,8 @@ footer {
 /*-- Main Menu Styles--*/
 nav ul {
   display: flex;
-  justify content: space-between;
+  justify-content: space-between;
+  align-items: flex-end;
   list-style: none;
   padding: 1em;
 }
