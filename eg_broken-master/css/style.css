@@ -105,11 +105,12 @@ article figcaption {
 .dropcap {
   color: rgb(105, 167, 167);
   float: left;
-  font-size: 96px;
+  font-size: 100px;
   padding-left: 3px;
   padding-right: 8px;
-  line-height: initial;
-  text-align: justify;
+  line-height: 75%;
+ 
+
 
 }
 .pagination {
